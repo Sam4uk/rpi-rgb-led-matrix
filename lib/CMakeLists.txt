@@ -18,4 +18,5 @@ add_library(rgbmatrix
     options-initialize.cc
     multiplex-mappers.cc
     pixel-mapper.cc
+    bdf-font.cc
 )
